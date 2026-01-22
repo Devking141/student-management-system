@@ -19,7 +19,3 @@ The project was developed using HTML for structuring web pages, CSS for styling 
 ## SDLC Implementation
 
 This repository contains the complete source code and reflects all stages of the SDLC, including planning, requirement analysis, system design, implementation, testing, deployment, and maintenance. The application was tested to ensure proper functionality of adding, viewing, and deleting student records.
-
-## Repository Link
-
-https://github.com/Jay-9-stack/Student-attendance-percentage-system
